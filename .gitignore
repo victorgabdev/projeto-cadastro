@@ -1,0 +1,106 @@
+# Eclipse
+.metadata
+.classpath
+.project
+.settings/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.tag
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+.gradle-cache/
+gradle-app.setting
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# IntelliJ
+out/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Logs
+logs/
+*.log
+
+# Temp files
+tmp/
+temp/
+*.tmp
+*.temp
+*.swp
+
+# Compiled binary files
+*.exe
+*.dll
+*.com
+*.so
+*.dylib
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build output directories
+target/
+bin/
+out/
+build/
+
+# Ignore generated files
+generated/
+gen/
+dist/
+node_modules/
+coverage/
+
+# Other
+*.lock
+*.patch
+*.sublime-workspace
+*.sublime-project
+
+# Ignore sensitive files
+*.env
+*.key
+*.pem
+*.crt
+*.enc
